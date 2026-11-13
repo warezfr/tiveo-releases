@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Watch the 22-second tour" width="900"></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Watch the 22-second tour" width="900"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ Watch the 22-second tour</b></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><b>▶ Watch the 22-second tour</b></a>
 </p>
 
 Tiveo is an IPTV player built for the living room. You bring your own subscription, add it once, and get a clean home screen, live TV with a full guide, replay, movies, series and sports, all driven by the remote. The same app also runs on Android phones with a touch interface.

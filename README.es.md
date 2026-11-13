@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Ver la presentación de 22 segundos" width="900"></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Ver la presentación de 22 segundos" width="900"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ Ver la presentación de 22 segundos</b></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><b>▶ Ver la presentación de 22 segundos</b></a>
 </p>
 
 Tiveo es un reproductor IPTV pensado para el salón. Tú aportas tu suscripción, la añades una sola vez y obtienes una pantalla de inicio limpia, TV en directo con guía completa, reproducción de programas ya emitidos (replay), películas, series y deportes, todo manejado con el mando a distancia. La misma aplicación también funciona en teléfonos Android con interfaz táctil.

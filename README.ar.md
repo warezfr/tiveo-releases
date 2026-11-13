@@ -15,9 +15,9 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="شاهد الجولة التعريفية (22 ثانية)" width="900"></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="شاهد الجولة التعريفية (22 ثانية)" width="900"></a>
   <br>
-  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ شاهد الجولة التعريفية (22 ثانية)</b></a>
+  <a href="https://youtu.be/2_JoVCULfbs"><b>▶ شاهد الجولة التعريفية (22 ثانية)</b></a>
 </p>
 
 Tiveo مشغّل IPTV مصمَّم لغرفة المعيشة. تُحضر اشتراكك الخاص وتضيفه مرة واحدة، فتحصل على شاشة رئيسية أنيقة، وبثّ مباشر مع دليل كامل، وإعادة المشاهدة، والأفلام، والمسلسلات، والرياضة، وكل ذلك يُدار بجهاز التحكم عن بُعد. ويعمل التطبيق نفسه أيضًا على هواتف Android بواجهة تعمل باللمس.
