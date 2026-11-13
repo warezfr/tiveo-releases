@@ -13,7 +13,9 @@
 </div>
 
 <p align="center">
-  <img src="screenshots/home.jpg" alt="Pantalla de inicio de Tiveo: un título destacado grande, una fila de Destacados (Featured) y una fila de En directo ahora (On now) con canales en vivo" width="900">
+  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Ver la presentación de 22 segundos" width="900"></a>
+  <br>
+  <a href="media/tiveo-presentation.mp4"><b>▶ Ver la presentación de 22 segundos</b></a>
 </p>
 
 Tiveo es un reproductor IPTV pensado para el salón. Tú aportas tu suscripción, la añades una sola vez y obtienes una pantalla de inicio limpia, TV en directo con guía completa, reproducción de programas ya emitidos (replay), películas, series y deportes, todo manejado con el mando a distancia. La misma aplicación también funciona en teléfonos Android con interfaz táctil.
@@ -39,9 +41,12 @@ Tiveo puede comprobar por sí mismo si hay versiones nuevas y te ofrece instalar
 
 Un gran cartel destacado y, debajo, filas que retoman lo que dejaste: Seguir viendo (Continue watching), En directo ahora (On now), Partidos (Matches), Canales favoritos (Favorite channels), Mi lista (My list) y las últimas películas y series. Las filas se pueden activar o desactivar por perfil. Un indicador del tiempo (ciudad a tu elección, °C o °F) se puede desactivar. Tiveo puede abrirse en Inicio, en tu último canal, en un canal que elijas o en Mi lista.
 
-<p align="center">
-  <img src="screenshots/home-continue.jpg" alt="Pantalla de inicio con la fila Seguir viendo y barras de progreso" width="900">
-</p>
+<table>
+  <tr>
+    <td><img src="screenshots/home.jpg" alt="Pantalla de inicio de Tiveo: un título destacado grande, una fila de Destacados (Featured) y una fila de En directo ahora (On now) con canales en vivo" width="100%"></td>
+    <td><img src="screenshots/home-continue.jpg" alt="Pantalla de inicio con la fila Seguir viendo y barras de progreso" width="100%"></td>
+  </tr>
+</table>
 
 ### TV en directo
 

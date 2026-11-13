@@ -13,7 +13,9 @@
 </div>
 
 <p align="center">
-  <img src="screenshots/home.jpg" alt="Tiveo home screen: a large featured title, a Featured row and an On now row of live channels" width="900">
+  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Watch the 22-second tour" width="900"></a>
+  <br>
+  <a href="media/tiveo-presentation.mp4"><b>▶ Watch the 22-second tour</b></a>
 </p>
 
 Tiveo is an IPTV player built for the living room. You bring your own subscription, add it once, and get a clean home screen, live TV with a full guide, replay, movies, series and sports, all driven by the remote. The same app also runs on Android phones with a touch interface.
@@ -39,9 +41,12 @@ Tiveo can check for new versions on its own and offers to install them. For that
 
 A large featured billboard, then rows that pick up where you left off: Continue watching, On now, Matches, Favorite channels, My list, and latest movies and series. Rows can be switched on or off per profile. A weather chip (city of your choice, C or F) can be turned off. Tiveo can open on Home, your last channel, a chosen channel or My list.
 
-<p align="center">
-  <img src="screenshots/home-continue.jpg" alt="Home screen showing the Continue watching row with progress bars" width="900">
-</p>
+<table>
+  <tr>
+    <td><img src="screenshots/home.jpg" alt="Tiveo home screen: a large featured title, a Featured row and an On now row of live channels" width="100%"></td>
+    <td><img src="screenshots/home-continue.jpg" alt="Home screen showing the Continue watching row with progress bars" width="100%"></td>
+  </tr>
+</table>
 
 ### Live TV
 

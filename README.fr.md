@@ -13,7 +13,9 @@
 </div>
 
 <p align="center">
-  <img src="screenshots/home.jpg" alt="Écran d’accueil de Tiveo : un grand titre à la une, une rangée À la une et une rangée En ce moment avec des chaînes en direct" width="900">
+  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Voir la présentation en 22 secondes" width="900"></a>
+  <br>
+  <a href="media/tiveo-presentation.mp4"><b>▶ Voir la présentation en 22 secondes</b></a>
 </p>
 
 Tiveo est un lecteur IPTV conçu pour le salon. Vous apportez votre propre abonnement, vous l’ajoutez une seule fois, et vous obtenez un écran d’accueil clair, la télévision en direct avec un guide complet, le replay, les films, les séries et les sports, le tout piloté à la télécommande. La même application fonctionne aussi sur les téléphones Android, avec une interface tactile.
@@ -39,9 +41,12 @@ Tiveo peut vérifier seul la disponibilité de nouvelles versions et propose de 
 
 Une grande affiche à la une, puis des rangées qui reprennent là où vous en étiez : Reprendre, En ce moment, Matchs, Chaînes favorites, Ma liste, et derniers films et séries. Les rangées peuvent être activées ou désactivées pour chaque profil. Une pastille météo (la ville de votre choix, en °C ou °F) peut être désactivée. Tiveo peut s’ouvrir sur l’Accueil, votre dernière chaîne, une chaîne choisie ou Ma liste.
 
-<p align="center">
-  <img src="screenshots/home-continue.jpg" alt="Écran d’accueil montrant la rangée Reprendre avec des barres de progression" width="900">
-</p>
+<table>
+  <tr>
+    <td><img src="screenshots/home.jpg" alt="Écran d’accueil de Tiveo : un grand titre à la une, une rangée À la une et une rangée En ce moment avec des chaînes en direct" width="100%"></td>
+    <td><img src="screenshots/home-continue.jpg" alt="Écran d’accueil montrant la rangée Reprendre avec des barres de progression" width="100%"></td>
+  </tr>
+</table>
 
 ### TV en direct
 
