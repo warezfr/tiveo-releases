@@ -2,7 +2,7 @@
 
 # Tiveo
 
-**مشغّل IPTV سريع يعتمد على جهاز التحكم عن بُعد أولًا، لأجهزة Android TV وGoogle TV.**
+**مشغّل IPTV سريع يعتمد على جهاز التحكم عن بُعد أولًا، لأجهزة Android TV وGoogle TV. مجاني بالكامل.**
 
 [![Latest release](https://img.shields.io/github/v/release/warezfr/tiveo-releases?label=release)](https://github.com/warezfr/tiveo-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/warezfr/tiveo-releases/total?label=downloads)](https://github.com/warezfr/tiveo-releases/releases)
@@ -15,9 +15,9 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="شاهد الجولة التعريفية (22 ثانية)" width="900"></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="شاهد الجولة التعريفية (22 ثانية)" width="900"></a>
   <br>
-  <a href="media/tiveo-presentation.mp4"><b>▶ شاهد الجولة التعريفية (22 ثانية)</b></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ شاهد الجولة التعريفية (22 ثانية)</b></a>
 </p>
 
 Tiveo مشغّل IPTV مصمَّم لغرفة المعيشة. تُحضر اشتراكك الخاص وتضيفه مرة واحدة، فتحصل على شاشة رئيسية أنيقة، وبثّ مباشر مع دليل كامل، وإعادة المشاهدة، والأفلام، والمسلسلات، والرياضة، وكل ذلك يُدار بجهاز التحكم عن بُعد. ويعمل التطبيق نفسه أيضًا على هواتف Android بواجهة تعمل باللمس.
@@ -27,6 +27,8 @@ Tiveo مشغّل فقط. فهو لا يتضمن أي قنوات أو قوائم 
 ## التنزيل والتثبيت
 
 احصل على أحدث ملف APK من **[صفحة الإصدارات (Releases)](https://github.com/warezfr/tiveo-releases/releases/latest)**.
+
+Tiveo مجاني بالكامل: بلا سعر وبلا مشتريات داخل التطبيق.
 
 للتثبيت اليدوي على Android TV أو Google TV:
 

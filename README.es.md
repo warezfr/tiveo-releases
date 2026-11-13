@@ -2,7 +2,7 @@
 
 # Tiveo
 
-**Un reproductor IPTV rápido y pensado para el mando a distancia, para Android TV y Google TV.**
+**Un reproductor IPTV rápido y pensado para el mando a distancia, para Android TV y Google TV. Totalmente gratis.**
 
 [![Última versión](https://img.shields.io/github/v/release/warezfr/tiveo-releases?label=release)](https://github.com/warezfr/tiveo-releases/releases/latest)
 [![Descargas](https://img.shields.io/github/downloads/warezfr/tiveo-releases/total?label=downloads)](https://github.com/warezfr/tiveo-releases/releases)
@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Ver la presentación de 22 segundos" width="900"></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Ver la presentación de 22 segundos" width="900"></a>
   <br>
-  <a href="media/tiveo-presentation.mp4"><b>▶ Ver la presentación de 22 segundos</b></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ Ver la presentación de 22 segundos</b></a>
 </p>
 
 Tiveo es un reproductor IPTV pensado para el salón. Tú aportas tu suscripción, la añades una sola vez y obtienes una pantalla de inicio limpia, TV en directo con guía completa, reproducción de programas ya emitidos (replay), películas, series y deportes, todo manejado con el mando a distancia. La misma aplicación también funciona en teléfonos Android con interfaz táctil.
@@ -25,6 +25,8 @@ Tiveo es solo un reproductor. No incluye canales, listas de reproducción ni con
 ## Descarga e instalación
 
 Descarga el último APK desde la **[página de Releases](https://github.com/warezfr/tiveo-releases/releases/latest)**.
+
+Tiveo es totalmente gratis: sin precio ni compras dentro de la app.
 
 Para instalarlo manualmente (sideload) en Android TV o Google TV:
 

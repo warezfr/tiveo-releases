@@ -2,7 +2,7 @@
 
 # Tiveo
 
-**Un lecteur IPTV rapide, pensé pour la télécommande, sur Android TV et Google TV.**
+**Un lecteur IPTV rapide, pensé pour la télécommande, sur Android TV et Google TV. Totalement gratuit.**
 
 [![Dernière version](https://img.shields.io/github/v/release/warezfr/tiveo-releases?label=version)](https://github.com/warezfr/tiveo-releases/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/warezfr/tiveo-releases/total?label=téléchargements)](https://github.com/warezfr/tiveo-releases/releases)
@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Voir la présentation en 22 secondes" width="900"></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Voir la présentation en 22 secondes" width="900"></a>
   <br>
-  <a href="media/tiveo-presentation.mp4"><b>▶ Voir la présentation en 22 secondes</b></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ Voir la présentation en 22 secondes</b></a>
 </p>
 
 Tiveo est un lecteur IPTV conçu pour le salon. Vous apportez votre propre abonnement, vous l’ajoutez une seule fois, et vous obtenez un écran d’accueil clair, la télévision en direct avec un guide complet, le replay, les films, les séries et les sports, le tout piloté à la télécommande. La même application fonctionne aussi sur les téléphones Android, avec une interface tactile.
@@ -25,6 +25,8 @@ Tiveo est uniquement un lecteur. Il n’inclut ni chaînes, ni listes de lecture
 ## Téléchargement et installation
 
 Récupérez le dernier APK sur la **[page des versions](https://github.com/warezfr/tiveo-releases/releases/latest)**.
+
+Tiveo est totalement gratuit : aucun prix, aucun achat dans l’application.
 
 Pour l’installer manuellement sur Android TV ou Google TV :
 

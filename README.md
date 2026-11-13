@@ -2,7 +2,7 @@
 
 # Tiveo
 
-**A fast, remote-first IPTV player for Android TV and Google TV.**
+**A fast, remote-first IPTV player for Android TV and Google TV. Completely free.**
 
 [![Latest release](https://img.shields.io/github/v/release/warezfr/tiveo-releases?label=release)](https://github.com/warezfr/tiveo-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/warezfr/tiveo-releases/total?label=downloads)](https://github.com/warezfr/tiveo-releases/releases)
@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="media/tiveo-presentation.mp4"><img src="screenshots/video-poster.jpg" alt="Watch the 22-second tour" width="900"></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><img src="screenshots/video-poster.jpg" alt="Watch the 22-second tour" width="900"></a>
   <br>
-  <a href="media/tiveo-presentation.mp4"><b>▶ Watch the 22-second tour</b></a>
+  <a href="https://www.youtube.com/watch?v=2_JoVCULfbs"><b>▶ Watch the 22-second tour</b></a>
 </p>
 
 Tiveo is an IPTV player built for the living room. You bring your own subscription, add it once, and get a clean home screen, live TV with a full guide, replay, movies, series and sports, all driven by the remote. The same app also runs on Android phones with a touch interface.
@@ -25,6 +25,8 @@ Tiveo is a player only. It includes no channels, playlists or content.
 ## Download and install
 
 Get the latest APK from the **[Releases page](https://github.com/warezfr/tiveo-releases/releases/latest)**.
+
+Tiveo is completely free: no price, no in-app purchase.
 
 To sideload on Android TV or Google TV:
 
